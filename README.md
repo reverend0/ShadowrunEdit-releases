@@ -39,6 +39,12 @@ The Shadowrun Missions 2083 Bestiary comes built in, and you can import others. 
 
 ![Inserting a callout to a Bestiary NPC](screenshots/npc-library.png)
 
+## Your way of working
+
+The **Options** tab, beside Contents, holds the document's stage (Draft or Publish-ready) and its game editions, and turns any check off: style rules, grammar, spelling, references, the stat block check, or the heading and table hints. Writing a draft and don't want the underlines yet? Turn them off, and turn them back on before you submit.
+
+![The Options tab](screenshots/options.png)
+
 ## Export to Word
 
 **Export to Word** writes a manuscript in the publisher's template, ready to submit: the right paragraph styles, tab tables, layout notes, and page breaks before each scene. Documents themselves are saved as plain Markdown files, with autosave and crash recovery.
